@@ -1,0 +1,16 @@
+canvas {
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px gray;
+}
+
+#content {
+  position: fixed;
+  width: 600px;
+  left: 50%;
+  margin-left: -300px;
+}
+
+#instructions {
+  font: 30px Arial black;
+  text-align: center;
+}
